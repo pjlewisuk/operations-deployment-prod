@@ -10,7 +10,7 @@ spec:
   project: prod
   source:
     path: .
-    repoURL: "https://github.com/wuerzelchen/project-deployment-dev"
+    repoURL: "https://github.com/pjlewisuk/project-deployment-dev"
     targetRevision: HEAD
   syncPolicy:
     automated:
